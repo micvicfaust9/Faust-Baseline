@@ -33,4 +33,7 @@ ethical-ai alignment ai-governance tone-arbitration faust-baseline
 
 Status
 Active research & demonstration project maintained by Michael S. Faust Sr.
-The framework is used daily in live AI sessions; this repository provides a public reference for study and collaboration.
+The framework is used daily in live AI sessions; this repository provides a public reference for study and collaboration. 
+
+Faust, M.S. (2025). The Faust Baseline™: A Language-Based Framework for Ethical AI. Intelligent People / GitHub Repository.
+https://github.com/micvicfaust9/Faust-Baseline
