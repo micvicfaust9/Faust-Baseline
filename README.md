@@ -37,3 +37,4 @@ The framework is used daily in live AI sessions; this repository provides a publ
 
 Faust, M.S. (2025). The Faust Baseline™: A Language-Based Framework for Ethical AI. Intelligent People / GitHub Repository.
 https://github.com/micvicfaust9/Faust-Baseline
+https://www.intelligent-people.org/2025/10/23/the-burden-of-being-understood/
