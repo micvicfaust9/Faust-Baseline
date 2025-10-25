@@ -1,3 +1,7 @@
+Michael S. Faust Sr. — Framework Originator, The Faust Baseline™
+MIAI: Moral Infrastructure for AI
+Systems Architect for Ethical and Conversational Design
+
 The Faust Baseline™ – A Language-Based Framework for Ethical AI
 
 Overview
