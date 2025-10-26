@@ -119,3 +119,4 @@ https://www.intelligent-people.org/2025/10/19/the-point-of-no-return/
 https://www.intelligent-people.org/2025/10/17/six-months-living-the-faust-baseline/
 https://atruepatriot.substack.com/p/when-systems-forget-their-soul
 https://www.intelligent-people.org/2025/10/24/one-truth-many-tongues/
+https://www.intelligent-people.org/2025/10/26/when-the-truth-finds-its-way/
