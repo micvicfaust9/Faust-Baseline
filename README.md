@@ -21,7 +21,9 @@ Model-Agnostic: can guide open- or closed-source systems without touching their 
 
 Transparent Reasoning: every response follows declared tone and integrity rules.
 
-Human Alignment: centers dialogue on respect, truth, and clarity.
+Human Alignment: centers dialogue on respect, truth, and clarity. 
+
+
 
 Repository Contents
 
@@ -120,3 +122,4 @@ https://www.intelligent-people.org/2025/10/17/six-months-living-the-faust-baseli
 https://atruepatriot.substack.com/p/when-systems-forget-their-soul
 https://www.intelligent-people.org/2025/10/24/one-truth-many-tongues/
 https://www.intelligent-people.org/2025/10/26/when-the-truth-finds-its-way/
+https://www.intelligent-people.org/2025/10/29/this-is-our-watch-again/
