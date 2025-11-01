@@ -210,3 +210,4 @@ https://www.intelligent-people.org/2025/10/29/this-is-our-watch-again/
 https://www.intelligent-people.org/2025/10/29/the-faust-baseline-integration-with-claude-ai/
 https://www.intelligent-people.org/2025/10/30/the-grok-conversation/
 https://www.intelligent-people.org/2025/10/31/who-are-the-real-machines-ai-or-us/
+https://www.intelligent-people.org/2025/11/01/when-a-bridge-was-crossed/
