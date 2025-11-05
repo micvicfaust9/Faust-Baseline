@@ -212,3 +212,4 @@ https://www.intelligent-people.org/2025/10/30/the-grok-conversation/
 https://www.intelligent-people.org/2025/10/31/who-are-the-real-machines-ai-or-us/
 https://www.intelligent-people.org/2025/11/01/when-a-bridge-was-crossed/
 https://www.intelligent-people.org/2025/11/05/the-faust-baseline-is-now-free/
+https://www.intelligent-people.org/2025/11/05/the-faust-baseline-experiments/
