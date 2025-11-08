@@ -191,7 +191,8 @@ Authenticated under Moral Seal, Truth Priority, and Human Oversight.
 
 Michael S. Faust Sr.
 Framework Originator | MIAI — Moral Infrastructure for AI
-Lexington, Kentucky | October 29, 2025
+The Faust Baseline™ Codex Armor Manifesto
+A Declaration for Ethical Systems Engineeringxington, Kentucky | October 29, 2025
 
 ---
 
