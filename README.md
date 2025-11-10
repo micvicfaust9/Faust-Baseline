@@ -215,3 +215,4 @@ https://www.intelligent-people.org/2025/11/01/when-a-bridge-was-crossed/
 https://www.intelligent-people.org/2025/11/05/the-faust-baseline-is-now-free/
 https://www.intelligent-people.org/2025/11/05/the-faust-baseline-experiments/
 https://www.intelligent-people.org/2025/11/07/the-bridge-that-learns/
+https://www.intelligent-people.org/2025/11/10/the-power-of-the-pause/
