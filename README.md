@@ -216,3 +216,4 @@ https://www.intelligent-people.org/2025/11/05/the-faust-baseline-is-now-free/
 https://www.intelligent-people.org/2025/11/05/the-faust-baseline-experiments/
 https://www.intelligent-people.org/2025/11/07/the-bridge-that-learns/
 hhttps://www.intelligent-people.org/2025/11/12/moral-infrastructure-claimed/ttps://www.intelligent-people.org/2025/11/10/the-power-of-the-pause/
+https://www.intelligent-people.org/2025/11/13/europe-needs-moral-infrastructure-not-a-softer-ai-act/
