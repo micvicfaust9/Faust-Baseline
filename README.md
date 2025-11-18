@@ -218,3 +218,4 @@ https://www.intelligent-people.org/2025/11/07/the-bridge-that-learns/
 hhttps://www.intelligent-people.org/2025/11/12/moral-infrastructure-claimed/ttps://www.intelligent-people.org/2025/11/10/the-power-of-the-pause/
 https://www.intelligent-people.org/2025/11/13/europe-needs-moral-infrastructure-not-a-softer-ai-act/
 https://www.intelligent-people.org/2025/11/14/when-the-faust-baseline-pdf-changes-the-room/
+https://www.intelligent-people.org/2025/11/18/thefaust-baseline-white-paper/
