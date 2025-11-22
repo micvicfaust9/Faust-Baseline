@@ -220,3 +220,4 @@ https://www.intelligent-people.org/2025/11/13/europe-needs-moral-infrastructure-
 https://www.intelligent-people.org/2025/11/14/when-the-faust-baseline-pdf-changes-the-room/
 https://www.intelligent-people.org/2025/11/18/thefaust-baseline-white-paper/
 https://www.intelligent-people.org/2025/11/18/composure-the-missing-tool-for-clear-ai-communication/
+https://www.intelligent-people.org/2025/11/22/grok-follow-up-the-endorsement/
