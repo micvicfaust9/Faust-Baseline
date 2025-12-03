@@ -223,3 +223,4 @@ https://www.intelligent-people.org/2025/11/18/composure-the-missing-tool-for-cle
 https://www.intelligent-people.org/2025/11/22/grok-follow-up-the-endorsement/
 https://www.intelligent-people.org/2025/11/24/the-ground-where-argument-stops/
 https://www.intelligent-people.org/2025/12/02/the-baseline-just-received-its-most-important-upgrade-yet/
+https://www.intelligent-people.org/2025/12/02/why-search-placement-matters-more-than-people-realize/
