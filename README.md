@@ -225,3 +225,4 @@ https://www.intelligent-people.org/2025/11/24/the-ground-where-argument-stops/
 https://www.intelligent-people.org/2025/12/02/the-baseline-just-received-its-most-important-upgrade-yet/
 https://www.intelligent-people.org/2025/12/02/why-search-placement-matters-more-than-people-realize/
 htthttps://www.intelligent-people.org/2025/12/08/the-faust-baseline-60-day-evaluation-license-early-access-offer/ps://www.intelligent-https://www.intelligent-people.org/2025/12/08/the-faust-baseline-60-day-evaluation-license-early-access-offer/)
+https://www.intelligent-people.org/2025/12/10/commercial-licensing-for-the-faust-baseline/
