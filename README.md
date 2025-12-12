@@ -226,3 +226,4 @@ https://www.intelligent-people.org/2025/12/02/the-baseline-just-received-its-mos
 https://www.intelligent-people.org/2025/12/02/why-search-placement-matters-more-than-people-realize/
 htthttps://www.intelligent-people.org/2025/12/08/the-faust-baseline-60-day-evaluation-license-early-access-offer/ps://www.intelligent-https://www.intelligent-people.org/2025/12/08/the-faust-baseline-60-day-evaluation-license-early-access-offer/)
 https://www.intelligent-people.org/2025/12/10/commercial-licensing-for-the-faust-baseline/
+https://www.intelligent-people.org/2025/12/12/they-didnt-build-ai-not-in-the-way-the-public-thinks/
