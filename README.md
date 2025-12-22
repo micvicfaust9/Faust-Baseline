@@ -229,3 +229,4 @@ https://www.intelligent-people.org/2025/12/10/commercial-licensing-for-the-faust
 https://www.intelligent-people.org/2025/12/12/they-didnt-build-ai-not-in-the-way-the-public-thinks/
 https://www.intelligent-people.org/2025/12/14/the-truth-stings-when-it-meets-reality-ai-exposed/
 https://www.intelligent-people.org/2025/12/20/the-faust-baseline-v2-6-a-peek-inside/
+https://www.intelligent-people.org/2025/12/22/where-i-stand-and-why-i-opened-the-door-for-you/
