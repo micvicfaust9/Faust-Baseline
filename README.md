@@ -230,3 +230,4 @@ https://www.intelligent-people.org/2025/12/12/they-didnt-build-ai-not-in-the-way
 https://www.intelligent-people.org/2025/12/14/the-truth-stings-when-it-meets-reality-ai-exposed/
 https://www.intelligent-people.org/2025/12/20/the-faust-baseline-v2-6-a-peek-inside/
 https://www.intelligent-people.org/2025/12/22/where-i-stand-and-why-i-opened-the-door-for-you/
+https://www.intelligent-people.org/2025/12/25/risk-management-is-the-price-of-admission-for-ai/
