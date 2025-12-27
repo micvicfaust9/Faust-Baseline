@@ -233,3 +233,4 @@ https://www.intelligent-people.org/2025/12/20/the-faust-baseline-v2-6-a-peek-ins
 https://www.intelligent-people.org/2025/12/22/where-i-stand-and-why-i-opened-the-door-for-you/
 https://www.intelligent-people.org/2025/12/25/risk-management-is-the-price-of-admission-for-ai/
 https://www.intelligent-people.org/2025/12/26/tfb-phronesis-2-6-professional-judgment-layer-for-high-consequence-ai-use/
+https://www.intelligent-people.org/2025/12/27/grok-refusal-of-use-a-structural-gap-in-high-consequence-ai/
