@@ -234,3 +234,4 @@ https://www.intelligent-people.org/2025/12/22/where-i-stand-and-why-i-opened-the
 https://www.intelligent-people.org/2025/12/25/risk-management-is-the-price-of-admission-for-ai/
 https://www.intelligent-people.org/2025/12/26/tfb-phronesis-2-6-professional-judgment-layer-for-high-consequence-ai-use/
 https://www.intelligent-people.org/2025/12/27/grok-refusal-of-use-a-structural-gap-in-high-consequence-ai/
+https://www.intelligent-people.org/2026/01/01/what-ai-sumawka-has-to-say-about-open-ai-without-anger-without-hype/
