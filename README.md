@@ -236,3 +236,4 @@ https://www.intelligent-people.org/2025/12/26/tfb-phronesis-2-6-professional-jud
 https://www.intelligent-people.org/2025/12/27/grok-refusal-of-use-a-structural-gap-in-high-consequence-ai/
 https://www.intelligent-people.org/2026/01/01/what-ai-sumawka-has-to-say-about-open-ai-without-anger-without-hype/
 https://www.intelligent-people.org/2026/01/29/what-keeps-intelligence-from-destroying-itself/
+https://www.intelligent-people.org/2026/01/30/why-ai-will-only-improve-from-the-outside-in-and-why-that-starts-at-home/
