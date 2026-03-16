@@ -241,3 +241,4 @@ https://www.intelligent-people.org/2026/02/04/what-you-need-to-know-about-the-fa
 https://www.intelligent-people.org/2026/02/18/the-ultimate-stress-test-that-didnt-break/
 https://www.intelligent-people.org/2026/02/22/copilits-evaluation-of-the-faust-baseline-phronesis-2-7/
 https://www.intelligent-people.org/2026/03/09/closing-the-workshop-door-on-the-faust-baseline-no-intrest/
+https://www.intelligent-people.org/2026/03/16/two-hundred-and-fifty-yearsnow-what-do-we-do-with-it/
