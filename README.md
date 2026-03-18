@@ -243,3 +243,4 @@ https://www.intelligent-people.org/2026/02/22/copilits-evaluation-of-the-faust-b
 https://www.intelligent-people.org/2026/03/09/closing-the-workshop-door-on-the-faust-baseline-no-intrest/
 https://www.intelligent-people.org/2026/03/16/two-hundred-and-fifty-yearsnow-what-do-we-do-with-it/
 https://www.intelligent-people.org/2026/03/17/the-faust-baseline-build-update/
+https://www.intelligent-people.org/2026/03/18/ai-governance-is-in-your-backyard-the-faust-baseline/
