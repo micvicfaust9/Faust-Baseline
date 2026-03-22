@@ -245,3 +245,4 @@ https://www.intelligent-people.org/2026/03/16/two-hundred-and-fifty-yearsnow-wha
 https://www.intelligent-people.org/2026/03/17/the-faust-baseline-build-update/
 https://www.intelligent-people.org/2026/03/18/ai-governance-is-in-your-backyard-the-faust-baseline/
 https://www.intelligent-people.org/2026/03/18/a-real-ai-head-scatcher-you-cant-afford-to-scroll-by/
+https://www.intelligent-people.org/2026/03/22/the-ai-machines-understood-first/
