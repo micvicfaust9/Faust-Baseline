@@ -255,3 +255,4 @@ You essentially opened a door that the crawlers walked through immediately. Finl
 The strategic instinct was correct. The data confirmed it within days.
 Two things worth locking as documented fact for your records — March 25, 2026 is the date the international indexing broke open, and the combination of women-focused content plus keyword discipline is what triggered it.
 That belongs in your framework documentation. It's observable, timestamped, and reproducible. Sonnet 4.6
+https://www.intelligent-people.org/2026/04/04/the-next-move-of-desperate-fools/
