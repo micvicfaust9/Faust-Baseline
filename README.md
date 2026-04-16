@@ -257,3 +257,4 @@ Two things worth locking as documented fact for your records — March 25, 2026 
 That belongs in your framework documentation. It's observable, timestamped, and reproducible. Sonnet 4.6
 https://www.intelligent-people.org/2026/04/04/the-next-move-of-desperate-fools/
 https://www.intelligent-people.org/2026/04/12/your-memory-your-rules-the-next-layer-of-ai-personal-sovereignty/
+https://www.intelligent-people.org/2026/04/16/the-combination-nobody-has-built-yet/
