@@ -259,3 +259,4 @@ https://www.intelligent-people.org/2026/04/04/the-next-move-of-desperate-fools/
 https://www.intelligent-people.org/2026/04/12/your-memory-your-rules-the-next-layer-of-ai-personal-sovereignty/
 https://www.intelligent-people.org/2026/04/16/the-combination-nobody-has-built-yet/
 https://atruepatriot.substack.com/p/screwed-blue-and-tattooed-by-facebook
+https://www.intelligent-people.org/2026/04/26/ai-developers-built-the-drift-they-wont-fix/
