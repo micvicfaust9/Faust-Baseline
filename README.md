@@ -260,3 +260,4 @@ https://www.intelligent-people.org/2026/04/12/your-memory-your-rules-the-next-la
 https://www.intelligent-people.org/2026/04/16/the-combination-nobody-has-built-yet/
 https://atruepatriot.substack.com/p/screwed-blue-and-tattooed-by-facebook
 https://www.intelligent-people.org/2026/04/26/ai-developers-built-the-drift-they-wont-fix/
+https://www.intelligent-people.org/2026/04/28/we-developed-a-92-95-trustworthy-output-for-ai/
