@@ -263,3 +263,4 @@ https://www.intelligent-people.org/2026/04/26/ai-developers-built-the-drift-they
 https://www.intelligent-people.org/2026/04/28/we-developed-a-92-95-trustworthy-output-for-ai/
 https://www.intelligent-people.org/2026/05/07/the-straight-answer-to-ai-energy-usage/
 https://www.intelligent-people.org/2026/05/08/when-the-machine-builds-itself-by-2028/
+https://www.intelligent-people.org/2026/05/10/83-days-blind-eyes-dont-see-they-look/
