@@ -264,3 +264,4 @@ https://www.intelligent-people.org/2026/04/28/we-developed-a-92-95-trustworthy-o
 https://www.intelligent-people.org/2026/05/07/the-straight-answer-to-ai-energy-usage/
 https://www.intelligent-people.org/2026/05/08/when-the-machine-builds-itself-by-2028/
 https://www.intelligent-people.org/2026/05/10/83-days-blind-eyes-dont-see-they-look/
+https://www.intelligent-people.org/2026/05/18/eric-schmidt-got-booed-and-why/
