@@ -265,3 +265,4 @@ https://www.intelligent-people.org/2026/05/07/the-straight-answer-to-ai-energy-u
 https://www.intelligent-people.org/2026/05/08/when-the-machine-builds-itself-by-2028/
 https://www.intelligent-people.org/2026/05/10/83-days-blind-eyes-dont-see-they-look/
 https://www.intelligent-people.org/2026/05/18/eric-schmidt-got-booed-and-why/
+https://www.intelligent-people.org/2026/06/02/tomorrow-never-comes-for-the-need-that-waits/
