@@ -266,3 +266,4 @@ https://www.intelligent-people.org/2026/05/08/when-the-machine-builds-itself-by-
 https://www.intelligent-people.org/2026/05/10/83-days-blind-eyes-dont-see-they-look/
 https://www.intelligent-people.org/2026/05/18/eric-schmidt-got-booed-and-why/
 hhttps://www.intelligent-people.org/2026/06/15/the-call-to-duty-for-the-faust-baseline/ttps://www.intelligent-people.org/2026/06/02/tomorrow-never-comes-for-the-need-that-waits/
+https://www.intelligent-people.org/2026/06/19/the-ai-token-efficiency-conversation-fixed/
