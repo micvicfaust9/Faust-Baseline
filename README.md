@@ -269,3 +269,4 @@ hhttps://www.intelligent-people.org/2026/06/15/the-call-to-duty-for-the-faust-ba
 https://www.intelligent-people.org/2026/06/19/the-ai-token-efficiency-conversation-fixed/
 https://www.intelligent-people.org/2026/06/24/an-ai-agent-in-the-boardroom-we-answerd-first/
 https://www.intelligent-people.org/2026/07/04/our-22nd-protocol-comes-of-age-today/
+https://www.intelligent-people.org/2026/07/04/fable-5-and-the-faust-baseline-the-ai-team/
