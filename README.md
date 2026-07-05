@@ -268,3 +268,4 @@ https://www.intelligent-people.org/2026/05/18/eric-schmidt-got-booed-and-why/
 hhttps://www.intelligent-people.org/2026/06/15/the-call-to-duty-for-the-faust-baseline/ttps://www.intelligent-people.org/2026/06/02/tomorrow-never-comes-for-the-need-that-waits/
 https://www.intelligent-people.org/2026/06/19/the-ai-token-efficiency-conversation-fixed/
 https://www.intelligent-people.org/2026/06/24/an-ai-agent-in-the-boardroom-we-answerd-first/
+https://www.intelligent-people.org/2026/07/04/our-22nd-protocol-comes-of-age-today/
