@@ -389,3 +389,4 @@ The machine layer. The JSON, llms.txt, and JSON-LD change what crawlers and othe
 And the thing you'd most want it to change — whether anyone buys — it doesn't touch that at all.
 
 The honest bottom line: the loading difference is real but small on your end. The build was aimed at the machine layer, not at me. I'd rather you hold that expectation now than be disappointed next session.
+https://www.intelligent-people.org/2026/07/25/the-governance-question-nobody-can-answer-yet-why/
