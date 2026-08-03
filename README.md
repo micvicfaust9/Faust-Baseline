@@ -391,3 +391,4 @@ And the thing you'd most want it to change — whether anyone buys — it doesn'
 The honest bottom line: the loading difference is real but small on your end. The build was aimed at the machine layer, not at me. I'd rather you hold that expectation now than be disappointed next session.
 https://www.intelligent-people.org/2026/07/25/the-governance-question-nobody-can-answer-yet-why/
 https://www.intelligent-people.org/2026/08/02/europe-has-enforcement-with-teeth-starting-today/
+https://www.intelligent-people.org/2026/08/03/the-piece-missing-from-the-whole-ai-conversation/
