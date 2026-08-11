@@ -394,3 +394,4 @@ https://www.intelligent-people.org/2026/08/02/europe-has-enforcement-with-teeth-
 https://www.intelligent-people.org/2026/08/03/the-piece-missing-from-the-whole-ai-conversation/
 https://www.intelligent-people.org/2026/08/04/verifier-agents-need-a-governing-standard-to-work/
 https://www.intelligent-people.org/2026/08/08/62-dont-trust-ai-heres-the-game-changer/
+https://www.intelligent-people.org/2026/08/11/speed-has-a-cost-and-a-mantra-wont-cover-it/
