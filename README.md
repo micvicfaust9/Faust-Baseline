@@ -397,3 +397,4 @@ https://www.intelligent-people.org/2026/08/08/62-dont-trust-ai-heres-the-game-ch
 hhttps://www.intelligent-people.org/2026/08/18/gpt-5-6-lunas-assesment-of-the-faust-baseline-codex-5-0/ttps://www.intelligent-people.org/2026/08/11/speed-has-a-cost-and-a-mantra-wont-cover-it/
 https://www.intelligent-people.org/2026/08/24/the-email-that-signed-a-contract-for-me/
 https://www.intelligent-people.org/2026/09/10/the-straight-answer-the-faust-baseline/
+https://www.intelligent-people.org/2026/09/19/it-starts-with-a-word/
