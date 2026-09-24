@@ -398,3 +398,4 @@ hhttps://www.intelligent-people.org/2026/08/18/gpt-5-6-lunas-assesment-of-the-fa
 https://www.intelligent-people.org/2026/08/24/the-email-that-signed-a-contract-for-me/
 https://www.intelligent-people.org/2026/09/10/the-straight-answer-the-faust-baseline/
 https://www.intelligent-people.org/2026/09/19/it-starts-with-a-word/
+https://www.intelligent-people.org/2026/09/24/perplexity-ais-assesment-of-the-faust-baseline/
