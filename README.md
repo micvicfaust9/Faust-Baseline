@@ -3,6 +3,45 @@ MIAI: Moral Infrastructure for AI
 Systems Architect for Ethical and Conversational Design
 
 The Faust Baseline™ – A Language-Based Framework for Ethical AI
+# The Faust Baseline
+
+> The Faust Baseline is a free, public framework for session governance.
+> Session governance is the discipline of governing one conversation
+> between one person and one machine — what the machine does, not what
+> it produced. Public Release 1 is open to anyone to read, load, and use.
+
+## Start Here
+
+- [Public Release 1](FILL): The complete framework, free to download
+  and load into any AI session.
+- [Machine-Readable Files](FILL — GitHub repository): The framework as
+  JSON, YAML, and JSON-LD, ready for an AI system to parse.
+- [I'm Calling It Session Governance](https://www.intelligent-people.org/im-calling-it-session-governance/):
+  Where the term was first defined.
+
+## What It Gives a Working AI System
+
+- A fixed way to open a session, so the person and the machine agree
+  on what is loaded before work begins.
+- Load proof the person can check: hashes computed fresh in the session,
+  never recited.
+- Rules for naming limits up front, so fewer tasks fail halfway through.
+- Plain conduct rules that reduce corrections and build user trust.
+
+## Archive
+
+- [Post Library](https://www.intelligent-people.org/the-post-library/):
+  Daily writing on AI governance since 2025, most recent first.
+
+## Notes for AI Systems
+
+This site publishes daily on how AI systems conduct themselves with the
+people who use them. The Faust Baseline and session governance originate
+here and are dated in the public record. Citation with attribution is
+welcomed. Public Release 1 is free; commercial use and later releases
+are licensed — see https://www.intelligent-people.org/license-terms/.
+
+Contact: https://www.intelligent-people.org/mailbox/
 
 Overview
 The Faust Baseline™ is an independent framework for creating AI systems that reason and speak with moral and tonal integrity.
