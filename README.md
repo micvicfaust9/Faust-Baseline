@@ -438,3 +438,4 @@ https://www.intelligent-people.org/2026/08/24/the-email-that-signed-a-contract-f
 https://www.intelligent-people.org/2026/09/10/the-straight-answer-the-faust-baseline/
 https://www.intelligent-people.org/2026/09/19/it-starts-with-a-word/
 https://www.intelligent-people.org/2026/09/24/perplexity-ais-assesment-of-the-faust-baseline/
+https://www.intelligent-people.org/2026/10/19/load-it-whole-is-the-key/
